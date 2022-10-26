@@ -1,0 +1,7 @@
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\bin\Debug\ejercicio2-v1.exe.config
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\bin\Debug\ejercicio2-v1.exe
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\bin\Debug\ejercicio2-v1.pdb
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\obj\Debug\ejercicio2-v1.csprojAssemblyReference.cache
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\obj\Debug\ejercicio2-v1.csproj.CoreCompileInputs.cache
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\obj\Debug\ejercicio2-v1.exe
+C:\Users\famagra\source\repos\ejercicio2-v1\ejercicio2-v1\obj\Debug\ejercicio2-v1.pdb
